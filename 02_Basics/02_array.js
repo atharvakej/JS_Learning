@@ -20,4 +20,7 @@ const anotherone = aray.flat(2) // depth batani hoti hai
 console.log(another)
 console.log(anotherone)
 
-// c
+// conversion to array
+
+console.log(Array.from("Atharva"))
+console.log(Array.from({name: "Atharva"}))
