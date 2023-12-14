@@ -1,1 +1,1 @@
-// Immedietely Invoked Function Expression (IIFE)
+//  Immedietely Invoked Function Expression (IIFE)
