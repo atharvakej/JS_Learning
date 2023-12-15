@@ -1,4 +1,4 @@
-//  Immedietely Invoked Function Expression (IIFE)
+// Immedietely Invoked Function Expression (IIFE)
 function shoppingkart(...num1) {
     return num1;
   }
