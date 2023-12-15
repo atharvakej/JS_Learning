@@ -12,7 +12,6 @@
 // user.username = "Alternate";
 // user.welcomemsg();
 
-//
 //console.log(this); // here it is empty but in console it will be window
 // as the global environment there is window that is being opened
 
