@@ -17,4 +17,3 @@ console.log(one(43));
         console.log(`AKJ IS HERE ${parameter}`)
     }
 )('Atharva final')
-
