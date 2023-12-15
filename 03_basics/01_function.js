@@ -3,7 +3,7 @@ function shoppingkart(...num1) {
 }
 // ... is rest operator
 // 
-console.log(shoppingkart(4, 43, 434, 4, 4, 2323));
+console.log(shoppingkart(4, 43, 434, 4, 4, 2323))
 
 // function ke andr object
 
