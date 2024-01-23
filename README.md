@@ -1,2 +1,2 @@
 # js_learning
-Online Environment to Learn JavaScript.
+Online Environment to Learn JavaScript
